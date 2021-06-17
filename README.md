@@ -1,1 +1,1 @@
-# klip pokazujący jak to działa https://photos.app.goo.gl/5iXyxQmL3NJ2UCyh7
+# Aplikacja okienkowa stworzona na mikrokontrolerze ESP32, sterowana za pomocą terminala bluetooth z podłączonym wyświetlaczem LCD https://photos.app.goo.gl/EV75LKXfaFQdsDkC6
